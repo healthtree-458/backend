@@ -147,3 +147,12 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Service Account JSON files
+serviceAccount*.json
+
+# JetBrains IDEs
+.idea/
+
+# VS Code
+.vscode/
